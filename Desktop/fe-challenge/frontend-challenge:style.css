@@ -1,0 +1,59 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: green;
+  font-size: ;
+  margin: auto;
+  width: auto;
+}
+
+.topbar {
+  background-image: url (../images/navbar.png);
+  background-position: top;
+  display: block;
+}
+
+.statusbar {
+  background-image: url (../images/);
+  background-position: top;
+  display: block;
+  position:absolute;
+
+}
+
+.arrowleft {
+  float: left;
+  margin: 1%;
+}
+
+.busstop {
+  font-size: 20px;
+}
+.maps {
+  background-image: url (../images/maps.pdf);
+  background-position: center;
+  display: block;
+  width: 100%;
+}
+
+.line {
+  float: left;
+  font-size: 1.5em;
+  margin:auto;
+  padding: ;
+
+}
+
+.destination {
+  font-size: 18px;
+  float: ;
+  margin: ;
+  padding: ;
+
+}
+
+.frequency {
+  font-size:
+}
