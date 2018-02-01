@@ -1,0 +1,71 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+body {
+  box-sizing: border-box;
+  background-color: #36B70D;
+  font-size: ;
+  font-family: '', ;
+  margin: auto;
+  width: auto;
+}
+
+.container {
+  margin: auto;
+  width: '';
+}
+
+.topbar {
+  background-image: url (../images/topbar.png);
+  background-position: top;
+  display: block;
+}
+
+.statusbar {
+  background-position: top;
+  display: block;
+  position:absolute;
+  width
+
+}
+
+.arrowleft {
+  float: left;
+  margin: 1%;
+}
+
+.busstop {
+  font-size: 20px;
+}
+.maps {
+  background-image: url (../images/map.png);
+  background-position: center;
+  display: block;
+  width: 100%;
+}
+
+.line {
+  float: left;
+  font-size: 15px;
+  margin:auto;
+  padding: ;
+  font-weight: normal;
+
+}
+
+.destination {
+  font-size: 18px;
+  font weight: normal;
+  float: ;
+  margin: ;
+  padding: ;
+
+}
+
+.frequency {
+  float: right;
+  font-size:15px;
+  font-weight: normal;
+
+}
